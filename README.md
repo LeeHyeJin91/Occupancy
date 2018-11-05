@@ -1,6 +1,6 @@
 # Data science portfolio by HyeJinLee
 
-## Classification problems.
+## Classification problems
 
 ### Occupacny data
 
