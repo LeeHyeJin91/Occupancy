@@ -1,5 +1,3 @@
-# Data science portfolio by HyeJinLee
-
 
 # Occupacny: *Occupacny Prediction*
 
@@ -28,5 +26,6 @@ There exists the case that some continuous features have the same values in both
 
 ## Notebook
 
-[Github](https://github.com/LeeHyeJin91/hyejin/blob/master/Notebook/Occupancy.ipynb) [nbviewer](http://nbviewer.jupyter.org/gist/LeeHyeJin91/173361ea3ff40e9b9db6f6be07334b71)
+[Github](https://github.com/LeeHyeJin91/hyejin/blob/master/Notebook/Occupancy.ipynb) 
+[Notebook](http://nbviewer.jupyter.org/gist/LeeHyeJin91/173361ea3ff40e9b9db6f6be07334b71)
 
