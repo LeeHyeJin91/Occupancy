@@ -1,7 +1,8 @@
 
 # Occupacny: *Occupacny Prediction*
 
-This notebook is my rerport for Occupacny Prediction. In this project, I concentrate on <U>*logical flow for creating new features* </U>.   
+This notebook is my rerport for Occupacny Prediction. 
+In this project, I concentrate on <U>**logical flow for creating new features**</U>.   
 The dataset is from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+).
 
 
