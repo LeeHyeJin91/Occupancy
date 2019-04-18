@@ -6,7 +6,7 @@ In this project, I concentrate on <U>**logical flow for creating new features**<
 
 
 ## Description
-The goal of this project is to predict whether or not a room is occupied based on environmental measures such as temperature, light, CO2 and so on.
+The goal of this project is to predict whether a room is occupied or not based on environmental measures such as temperature, light, CO2 and so on.
 
 
 ##  Data
