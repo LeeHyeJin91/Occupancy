@@ -16,7 +16,7 @@ Occupacny data is divided into three files, one for training and the others for 
 ## Problems of Occupacny Prediction
 
 #### 1. Time series data
-As this dataset is timeseries, it is important to discover the pattern of each feature over time. 
+As this dataset is timeseries, It is important to discover the pattern of each feature over time. 
 
 #### 2. The ambiguity of continuous feature
 There exists the case that some continuous features have the same values in both cases (Occupancy=0 and Occupancy=1). As a result, the machine(our model) can't distinguish where these values belong to. So I made the machine discern these values by creating some features. I explained this part in ***3.3.4*** of notebook concretely.  
